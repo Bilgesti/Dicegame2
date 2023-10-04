@@ -1,0 +1,13 @@
+ /* Scanner
+                * Players (minimum 2): String
+                - Amount of dice ( ongoing )
+                * Username
+
+        Rules:
+        -- Each round, Each player: throw dice(die)
+                - Most points = win */
+
+          -Scanner
+          -PLayers
+          -Amount of dice
+          -Username
