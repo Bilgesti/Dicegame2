@@ -11,7 +11,7 @@ import static com.bilgee.dice.Player.addPlayer;
 public class Game {
     public static int askNumberDice () {
         Scanner in = new Scanner(System.in);
-        System.out.println("How many dices: ");
+        System.out.println("How many dice: ");
         return in.nextInt();
     }
     public static int diceThrow (int dice, Random random){
@@ -50,6 +50,7 @@ public class Game {
         }
 
     }
+    // En metod som hittar vinnaren
     public static List<Player> findWinners (List<Player> playerList) {
        List<Player> winner = new ArrayList<>();
        int maxScore = Integer.MIN_VALUE;
@@ -64,6 +65,7 @@ public class Game {
         }
         return winner;
     }
+    // En metod som visar vinnaren
     public static void showWinners (List<Player> playerList) {
         List<Player> winners = findWinners(playerList);
 

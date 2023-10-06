@@ -3,7 +3,7 @@ package com.bilgee.dice;
 import java.util.List;
 
 
-public class DIceGame {
+public class DiceGame {
     public static void main(String[] args) {
         System.out.println("Welcome to the Game");
         List<Player> playerList = Player.addPlayer();

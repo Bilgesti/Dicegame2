@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="872fb308-b5af-4312-9bda-e0a8a1ef383f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bilgee/dice/Dice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bilgee/dice/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bilgee/dice/Game.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,11 @@
       <workItem from="1695817561429" duration="6053000" />
       <workItem from="1696248467630" duration="2444000" />
       <workItem from="1696332873696" duration="14061000" />
-      <workItem from="1696404547626" duration="11166000" />
+      <workItem from="1696404547626" duration="13449000" />
+      <workItem from="1696524001717" duration="664000" />
+      <workItem from="1696585245170" duration="9000" />
+      <workItem from="1696590620405" duration="18000" />
+      <workItem from="1696622953064" duration="84000" />
     </task>
     <servers />
   </component>
